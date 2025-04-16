@@ -61,5 +61,6 @@ The primary goal of this project is to analyze historical airplane crash data to
 - Slicers: Month
    
 ## Data Visualization
+![Table](https://github.com/Ola-ykay/Airplane-Crashes-and-Fatalities/blob/main/airplane%20crashes-table.png)
 
 
