@@ -63,4 +63,8 @@ The primary goal of this project is to analyze historical airplane crash data to
 ## Data Visualization
 ![Table](https://github.com/Ola-ykay/Airplane-Crashes-and-Fatalities/blob/main/airplane%20crashes-table.png)
 
+![Analysis](https://github.com/Ola-ykay/Airplane-Crashes-and-Fatalities/blob/main/airplane%20crashes-analysis.png)
+
+![Dashboard](
+
 
