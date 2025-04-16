@@ -40,7 +40,7 @@ The primary goal of this project is to analyze historical airplane crash data to
 - Monthly total fatalities
 - Total fatalities by location
 - Total passengers per aircraft
-- Month ground fatalities
+- Monthly ground fatalities
 - Flight routes
   
 ## Questions Explored
